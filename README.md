@@ -8,6 +8,6 @@ Steve's parents are interested in the analysis of few stocks, specifically DAQO'
 - Obtain yearly return for each stock
  
 ### 3. Main Goal:
-Steve wants to enable macros on his computer in order to run the analysis whenever he wantsSteve wants to enable a flexible macro that will refactor an existing code in order to make his daily tasks more efficient by shortening the time the analysis runs.
+Steve wants to enable macros on his computer in order to run the analysis whenever he wants with the least amount of time.  To do that, an existing code will be refactored in order to make his daily tasks more efficient by shortening the time the analysis runs.
 
 
