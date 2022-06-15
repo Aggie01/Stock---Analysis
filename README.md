@@ -29,8 +29,7 @@ Steve wants to enable macros on his computer in order to run the analysis whenev
 ### Pros
 Successfully refactored code reveals efficiency of the run times.  Refactored code looks cleaner and easier to update.  For Steve it means saved time and money in the future.  Both, 2017 and 2018 "run-time" reveal how fast the task was performed.
 
-![](VBA_Challenge_All%20Stocks2018.png)
-
+![](VBA_Challenge_2017.png)
 
 ### Cons
 Refactoring includes renaming variables and introducing/using different code for execution.  This can lead to new errors.
