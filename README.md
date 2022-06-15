@@ -1,7 +1,7 @@
 # Stock---Analysis
 ## OVERVIEW
 ### 1. Background: 
-Steve's parents are interested in some stocks analysis, especially DAQO's. Specifically, they want to know how actively DQ was trading (comparing 2017 and 2018).    
+Steve's parents are interested in a analysis of few stocks, specifically DAQO's. They want to know how actively DQ was trading (comparing 2017 and 2018).    
   
 ### 2. Steve's Objectives:
 - Keep track of total daily volume (total number of shares traded throughout a day)
