@@ -7,7 +7,7 @@ Steve's parents are interested in the analysis of few stocks, specifically DAQO'
 - Keep track of total daily volume (total number of shares traded throughout a day)
 - Obtain yearly return for each stock
  
-### 3. Main Goal:
+### 3. Main Goals:
 Steve wants to enable macros on his computer in order to run the analysis whenever he wants with the least amount of time.  To do that, an existing code will be refactored in order to make his daily tasks more efficient by shortening the time the analysis runs.
 
 ## RESULTS AND ANALYSIS of STOCKS
@@ -22,9 +22,9 @@ Steve wants to enable macros on his computer in order to run the analysis whenev
 
 ![](VBA_Challenge_All%20Stocks2018.png)
 
-## SUGGESTIONS:
+## POST ANALYSIS SUGGESTIONS:
 - Steve should clearly communicate his findings about DQ to his parents.  Also, he should analyse 2018 market to better understand what caused the portfolio to perform so bad.
 
-
+## SUMMARY OF MAIN GOALS:
 
 
