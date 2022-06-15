@@ -15,4 +15,4 @@ Steve wants to enable macros on his computer in order to run the analysis whenev
 ### 1. Year 2017:
 2017 portfolio shows an overall positive return. Out of twelve tickers, only one reveals a negative return (TERP = -7.2%).  DQ positively outperformed the rest by scoring 199.4%.
 
-
+![](VBA_Challenge_AllStocks2017.png)
