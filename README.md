@@ -20,7 +20,8 @@ Steve wants to enable macros on his computer in order to run the analysis whenev
 ### 2. Year 2018:
 2018 shows a rough trend. Out of the twelve tickers, only two show positive returns, ENPH (81.9%) and RUN (84%).  DQ, on the other hand, scored the lowest at -62.6%.
 
-![](VBA_Challenge_All Stocks2018.png)
+![](VBA_Challenge_All%20Stocks2018.png)
+
 
 
 
