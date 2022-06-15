@@ -31,7 +31,7 @@ Successfully refactored code reveals efficiency of the run times.  Refactored co
 
 ![](VBA_Challenge_2017(2).png)
 
-![](VBA_Challenge_2018.png)
+![](VBA_Challenge_2018(2).png)
 
 ### Cons
 Refactoring includes renaming variables and introducing/using different code for execution.  This can lead to new errors.
