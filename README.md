@@ -22,7 +22,8 @@ Steve wants to enable macros on his computer in order to run the analysis whenev
 
 ![](VBA_Challenge_All%20Stocks2018.png)
 
-
+# SUGGESTIONS:
+- Steve should clearly communicate his findings about DQ to his parents.  Also, he should analyse the 2018 market to better understand what caused the overall portfolio to "crash."
 
 
 
