@@ -16,3 +16,9 @@ Steve wants to enable macros on his computer in order to run the analysis whenev
 2017 portfolio shows an overall positive return. Out of twelve tickers, only one reveals a negative return (TERP = -7.2%).  DQ positively outperformed the rest by scoring 199.4%.
 
 ![](VBA_Challenge_AllStocks2017.png)
+
+### 2. Year 2018:
+2018 shows a rough trend. Out of the twelve tickers, only two show positive returns, ENPH (81.9%) and RUN (84%).  DQ, on the other hand, scored the lowest at -62.6%.
+
+![](VBA_Challenge_AllStocks2018.png)
+
